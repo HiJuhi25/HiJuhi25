@@ -9,7 +9,7 @@
   
  
 - 🔭 I’m currently pursuing B.Tech in Information Technology
--  🌱 I’m currently learning **Data Science**
+-  🌱 I’m currently acquiring **Knowledge**
 
 - 👨‍💻 My ongoing Professional life [https://www.linkedin.com/in/juhi-saha-438288243/](https://www.linkedin.com/in/juhi-saha-438288243/)
 
