@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![Header](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
 <h1 align="center">Hi! I'm Juhi Saha</h1>
 <h3 align="center">An Enthusiastic Learner and Developer </h3>
 <p align="right"> <img align="right" alt="Coding" hight = "300" width="350" src="https://github.com/HiJuhi25/HiJuhi25/assets/107752924/537571e8-fec4-471b-81d6-2bfbd273057e" alt="juhiSaha" /> </p>
